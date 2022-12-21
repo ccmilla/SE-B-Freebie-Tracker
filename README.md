@@ -170,3 +170,4 @@ companies for the first dev in the database based on your seed data; and
     to be the given dev; your code should only make the change if the freebie
     belongs to the dev who's giving it away
 # SE-B-Freebie-Tracker
+# SE-B-Freebie-Tracker
